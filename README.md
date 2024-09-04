@@ -40,8 +40,7 @@ Here are some of the projects I’ve worked on:
 - 💼 Portfolio: [My Portfolio](https://kokila-ravi.github.io/MyPortfolio/)
 
 ## 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/kokila__r08?theme=light&font=source_sans_pro&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/kokila__r08?theme=light&font=Ubuntu&extension=heatmap)
 
 
 <!--
