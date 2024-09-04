@@ -35,7 +35,7 @@ Here are some of the projects I’ve worked on:
 
 ## 🛠️ How to Reach Me
 
-- 📧 Email: [My Email ID](mailto:kokisharmi123@gmail.com)
+- 📧 Email: [kokilaravi0803@gmail.com](mailto:kokilaravi0803@gmail.com)
 - 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kokila-r-998aa9255/)
 - 💼 Portfolio: [My Portfolio](https://kokila-ravi.github.io/MyPortfolio/)
 
