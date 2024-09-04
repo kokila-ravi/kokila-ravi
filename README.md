@@ -35,9 +35,12 @@ Here are some of the projects I’ve worked on:
 
 ## 🛠️ How to Reach Me
 
-- 📧 Email: [your-email@example.com](mailto:kokisharmi123@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kokila-r-998aa9255/)
-- 💼 Portfolio: [Your Portfolio][link-to-your-portfolio](https://kokila-ravi.github.io/MyPortfolio/)
+- 📧 Email: [My Email ID](mailto:kokisharmi123@gmail.com)
+- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kokila-r-998aa9255/)
+- 💼 Portfolio: [My Portfolio](https://kokila-ravi.github.io/MyPortfolio/)
+
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=<kokila__r08>&theme=dark)
 
 
 <!--
