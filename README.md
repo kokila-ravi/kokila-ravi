@@ -25,13 +25,17 @@ I'm a passionate software developer with a knack for creating innovative solutio
 Here are some of the projects I’ve worked on:
 
 - **[Project Name 1 : BurgerShop](https://kokila-ravi.github.io/Burger_Shop/indexmain.html)**  
+        &nbsp;&nbsp;   Burger Delight is a sleek and modern e-commerce platform crafted to satisfy all your burger desires. This website offers a user-friendly shopping experience with seamless navigation, enticing animations, and an intuitive design.
+  
+  - Dynamic Product Display: Browse a wide variety of gourmet burgers with engaging animations.
+  - Personalized Login & Registration: Secure user authentication for personalized experiences.
+  - Add-to-Cart Functionality: Easily add your favorite burgers to the cart and review your selections on a dedicated cart page.
+ 
+ <!-- - **[Project Name 2](link-to-your-project)**  
   A brief description of what the project does, the technologies used, and what you learned from it.
-
-- **[Project Name 2](link-to-your-project)**  
-  A brief description of what the project does, the technologies used, and what you learned from it.
-
 - **[Project Name 3](link-to-your-project)**  
   A brief description of what the project does, the technologies used, and what you learned from it.
+  -->
 
 ## 🛠️ How to Reach Me
 
