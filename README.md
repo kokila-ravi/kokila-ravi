@@ -24,7 +24,7 @@ I'm a passionate software developer with a knack for creating innovative solutio
 
 Here are some of the projects I’ve worked on:
 
-- **[Project Name 1](link-to-your-project)**  
+- **[Project Name 1 : BurgerShop](https://kokila-ravi.github.io/Burger_Shop/indexmain.html)**  
   A brief description of what the project does, the technologies used, and what you learned from it.
 
 - **[Project Name 2](link-to-your-project)**  
