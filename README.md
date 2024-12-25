@@ -9,10 +9,10 @@ I'm a passionate software developer with a knack for creating innovative solutio
   -  Java  | HTML | CSS | JavaScript 
 
 - **Frameworks & Libraries:**  
-  - React | Node.js | Express 
+  - React 
 
 - **Databases:**  
-  - MongoDB | MySQL 
+  -  MySQL 
 
 - **Tools & Platforms:**  
   - Git | GitHub 
